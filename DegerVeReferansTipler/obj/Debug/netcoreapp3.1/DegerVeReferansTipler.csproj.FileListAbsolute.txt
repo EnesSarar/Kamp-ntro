@@ -1,0 +1,13 @@
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.exe
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.deps.json
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\Enes\source\repos\Kampİntro\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache

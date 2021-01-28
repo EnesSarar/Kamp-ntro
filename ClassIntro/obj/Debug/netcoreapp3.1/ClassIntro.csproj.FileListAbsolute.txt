@@ -1,0 +1,13 @@
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\Enes\source\repos\Kampİntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache

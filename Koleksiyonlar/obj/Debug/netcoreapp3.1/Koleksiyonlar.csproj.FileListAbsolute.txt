@@ -1,0 +1,13 @@
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache
+C:\Users\Enes\source\repos\Kampİntro\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache

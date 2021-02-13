@@ -7,7 +7,8 @@ namespace Koleksiyonlar
     {
         static void Main(string[] args)
         {
-            //string[] isimler = new string[] {"Engin","Murat","Kerem","Halil" };
+            //string[] isimler = new string[] { "Engin", "Murat", "Kerem", "Halil" };
+            //// burası normalde bir veri kaynağından gelir
             //Console.WriteLine(isimler[0]);
             //Console.WriteLine(isimler[1]);
             //Console.WriteLine(isimler[2]);
@@ -15,14 +16,15 @@ namespace Koleksiyonlar
             //isimler = new string[5];
             //isimler[4] = "ilker";
             //Console.WriteLine(isimler[4]);
-            //Console.WriteLine(isimler[0]);
+            //Console.WriteLine(isimler[0]); 
 
-            List<string> isimler2 = new List<string> { "Engin", "Murat", "Kerem", "Halil" };
+            List<string> isimler2 = new List<string> { "Engin", "Murat", "Kerem", "Halil", };
+            //isimler2.Add("Engin"); //Böylede eklenebilir yukarıdaki {} içerisindeki gibide eklenebilir.
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[1]);
             Console.WriteLine(isimler2[2]);
             Console.WriteLine(isimler2[3]);
-            isimler2.Add("İlker");
+            isimler2.Add("ilker");
             Console.WriteLine(isimler2[4]);
             Console.WriteLine(isimler2[0]);
 

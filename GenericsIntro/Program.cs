@@ -5,10 +5,10 @@ namespace GenericsIntro
     class Program
     {
         static void Main(string[] args)
-        {
-            MyList<string> isimler = new MyList<string> ();
+        {   // list komutu olmasaydı kendi listerimizi nasıl hazırlardık, öğrenelim.
+            MyList<string> isimler = new MyList<string> (); //"<>" içinde çalışıcağımız veri tipini belirtiriz.
             isimler.Add("Engin");
-
+            
         }
     }
 }

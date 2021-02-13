@@ -1,0 +1,12 @@
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\bin\Debug\netcoreapp3.1\Referencetypes.exe
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\bin\Debug\netcoreapp3.1\Referencetypes.deps.json
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\bin\Debug\netcoreapp3.1\Referencetypes.runtimeconfig.json
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\bin\Debug\netcoreapp3.1\Referencetypes.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\bin\Debug\netcoreapp3.1\Referencetypes.dll
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\bin\Debug\netcoreapp3.1\Referencetypes.pdb
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\obj\Debug\netcoreapp3.1\Referencetypes.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\obj\Debug\netcoreapp3.1\Referencetypes.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\obj\Debug\netcoreapp3.1\Referencetypes.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\obj\Debug\netcoreapp3.1\Referencetypes.dll
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\obj\Debug\netcoreapp3.1\Referencetypes.pdb
+C:\Users\Enes\source\repos\Kampİntro\Referencetypes\obj\Debug\netcoreapp3.1\Referencetypes.genruntimeconfig.cache

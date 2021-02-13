@@ -1,0 +1,12 @@
+C:\Users\Enes\source\repos\Kampİntro\Generics\bin\Debug\netcoreapp3.1\Generics.exe
+C:\Users\Enes\source\repos\Kampİntro\Generics\bin\Debug\netcoreapp3.1\Generics.deps.json
+C:\Users\Enes\source\repos\Kampİntro\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.json
+C:\Users\Enes\source\repos\Kampİntro\Generics\bin\Debug\netcoreapp3.1\Generics.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Kampİntro\Generics\bin\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Enes\source\repos\Kampİntro\Generics\bin\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Enes\source\repos\Kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.dll
+C:\Users\Enes\source\repos\Kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.pdb
+C:\Users\Enes\source\repos\Kampİntro\Generics\obj\Debug\netcoreapp3.1\Generics.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework.exe
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework.deps.json
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework.runtimeconfig.json
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework.runtimeconfig.dev.json
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework.dll
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\bin\Debug\netcoreapp3.1\GenericsHomework.pdb
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework.csprojAssemblyReference.cache
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework.AssemblyInfo.cs
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework.dll
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework.pdb
+C:\Users\Enes\source\repos\Kampİntro\MyDictonary\obj\Debug\netcoreapp3.1\GenericsHomework.genruntimeconfig.cache
